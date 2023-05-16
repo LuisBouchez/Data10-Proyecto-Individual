@@ -11,8 +11,8 @@ import joblib
 
 app = FastAPI()
 
-df = pd.read_csv('C:/Users/PC/Desktop/API/Data/movies.csv')
-knn_model = joblib.load('modelo_pelicula.pkl')
+df = pd.read_csv('Data/movies.csv')
+knn_model = joblib.load('modelo.pkl')
 
 # 1.-Peliculas estrenadas ese mes
 @app.get('/peliculas_mes/{mes}')
