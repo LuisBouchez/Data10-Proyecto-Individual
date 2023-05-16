@@ -21,5 +21,4 @@ tzdata
 uvicorn
 Werkzeug
 scikit-learn
-locale
 datetime
