@@ -66,6 +66,8 @@ Otra delas razones por la que se escogio este modelo es por los pocos recursos c
 * Para el Deployment se creo la API con FastAPI y uviconr y este fue desplegado mediante Render.
 El URRL de la API desplegada es el siguiente: https://proyecto-individual-data10.onrender.com/docs
 
+Video: https://youtu.be/AHsw5v7woQc
+
 
 ## Instalacion
 Para el siguiente proyecto se usaron las siguietes tecnologias y librerias:
